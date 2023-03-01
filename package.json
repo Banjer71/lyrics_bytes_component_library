@@ -1,6 +1,9 @@
 {
-  "name": "lyrics_bytes_component_library",
-  "version": "0.0.9",
+  "name": "@banjer71/lyrics_bytes_component_library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/banjer71"
+  },
+  "version": "0.0.10",
   "description": "lyrics_bytes_component_library",
   "scripts": {
     "rollup": "rollup -c",
