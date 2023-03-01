@@ -1,6 +1,6 @@
 {
   "name": "lyrics_bytes_component_library",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "lyrics_bytes_component_library",
   "scripts": {
     "rollup": "rollup -c",
